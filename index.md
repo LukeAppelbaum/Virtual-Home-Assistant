@@ -1,8 +1,6 @@
 ## Welcome to Virtual Home Assistant
 
-The Virtual Home Assistant is a maintenance and service app for smartphones, linking major systems and appliances to your devices. The average working American neglects major home systems due to their busy lives. 
-
-Subscribing to Virtual Home Assistant  will decrease home maintenance costs giving users more economic freedom in their lives.
+The Virtual Home Assistant is a maintenance and service app for smartphones, linking major systems and appliances to your devices. The average working American neglects major home systems due to their busy lives. Subscribing to Virtual Home Assistant  will decrease home maintenance costs giving users more economic freedom in their lives.
 
 #### Contractor References
 
@@ -22,4 +20,4 @@ Users have the option to automate regular ordering of supplies. Items will be sh
 
 #### Subscription Costs
 
-For a montly price of $4.99, users will have access to all the above features.
+For a monthly price of $4.99, users will have access to all the above features. Supplies will add additional costs to the monthly bill.
