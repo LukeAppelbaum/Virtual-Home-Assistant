@@ -1,37 +1,17 @@
 ## Virtual Home Assistant
 
-The Virtual Home Assistant is a maintenance and service app for smartphones, linking major systems and appliances to your device. The average working American neglects major home systems due to their busy lives. 
+The Virtual Home Assistant is a maintenance and service app for smartphones, linking major systems and appliances to your devices. The average working American neglects major home systems due to their busy lives. 
 
-Subscribing to Virtual Home Assistant  will decrease home maintenance costs giving users more economic freedom in their daily lives.
+Subscribing to Virtual Home Assistant  will decrease home maintenance costs giving users more economic freedom in their lives.
 
-### Markdown
+#### Contractor References
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Home Assistant provides suggestions for local contractors and retailers in order to repair and maintain your home.
 
-```markdown
-Syntax highlighted code block
+#### Appliance Maintenance
 
-# Header 1
-## Header 2
-### Header 3
+The Home Assistant schedules regular maintenance and cleaning on your home appliances to ensure clean and efficient operating conditions.
 
-- Bulleted
-- List
+#### Home Maintenance
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LukeAppelbaum/luke-appelbaum/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Seasonal maintenance will go uncompleted no more! The Virtual Home Assistant schedules seasonal maintenance, and cleaning to keep your home operating properly.
