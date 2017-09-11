@@ -15,3 +15,11 @@ The Home Assistant schedules regular maintenance and cleaning on your home appli
 #### Home Maintenance
 
 Seasonal maintenance will go uncompleted no more! The Virtual Home Assistant schedules seasonal maintenance, and cleaning to keep your home operating properly.
+
+#### Automated Ordering
+
+Users have the option to automate regular ordering of supplies. Items will be shipped and arrive on or before the replacement or date needed.
+
+#### Subscription Costs
+
+For a montly price of $4.99, users will have access to all the above features.
