@@ -1,4 +1,4 @@
-## Virtual Home Assistant
+## Welcome to Virtual Home Assistant
 
 The Virtual Home Assistant is a maintenance and service app for smartphones, linking major systems and appliances to your devices. The average working American neglects major home systems due to their busy lives. 
 
