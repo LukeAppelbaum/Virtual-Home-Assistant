@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Virtual Home Assistant
 
-You can use the [editor on GitHub](https://github.com/LukeAppelbaum/luke-appelbaum/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The Virtual Home Assistant is a maintenance and service app for smartphones, linking major systems and appliances to your device. The average working American neglects major home systems due to their busy lives. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Subscribing to Virtual Home Assistant  will decrease home maintenance costs giving users more economic freedom in their daily lives.
 
 ### Markdown
 
